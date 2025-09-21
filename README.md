@@ -36,7 +36,7 @@ This project analyzes news articles and assigns a credibility score using web se
 
 ```bash
 git clone https://github.com/Harshitn24/NewsGuardAI.git
-cd newsguard-ai
+cd NewsGuardAI
 ```
 
 2. **Install dependencies:**
@@ -79,7 +79,6 @@ streamlit run main.py
 * Requests
 * BeautifulSoup4
 * python-dotenv
-* fastapi
 * pydantic
 * google-api-python-client
 * agno
