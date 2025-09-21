@@ -35,7 +35,7 @@ This project analyzes news articles and assigns a credibility score using web se
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/newsguard-ai.git
+git clone https://github.com/Harshitn24/NewsGuardAI.git
 cd newsguard-ai
 ```
 
