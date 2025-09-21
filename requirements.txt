@@ -1,0 +1,7 @@
+streamlit
+requests
+beautifulsoup4
+python-dotenv
+pydantic
+google-api-python-client
+agno
